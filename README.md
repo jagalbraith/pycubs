@@ -11,7 +11,6 @@ Ok, ok.. Edit the command being fed to subprocess and put your own team in. LOL
 1. Python - DUH
 2. lynx
 3. Linux / Mac OS (Sorry Windows guys.. I don't use Windows. Feel free to port it.)
-3. The ability to count past 3.
-3. Internet access - DUH again. 
+4. Internet access - DUH again. 
 
 Go Cubs!
