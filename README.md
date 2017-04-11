@@ -6,11 +6,6 @@ Ok, so you are probably not a Cubs fan. Well, I have been all my life but I ran 
 If you see ways for my code to improve, don't be shy. Fix it. 
 
 Ok, ok.. Edit the command being fed to subprocess and put your own team in. LOL
-
-##REQUIREMENTS
-1. Python - DUH
-2. lynx
-3. Linux / Mac OS (Sorry Windows guys.. I don't use Windows. Feel free to port it.)
-4. Internet access - DUH again. 
+ 
 
 Go Cubs!
